@@ -1,0 +1,16 @@
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csprojAssemblyReference.cache
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CopyComplete
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Desenvolvimento\Projetos\Softprime\Cursos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
